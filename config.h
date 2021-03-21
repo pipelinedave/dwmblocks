@@ -13,17 +13,17 @@ static const Block blocks[] = {
 	/* {"",	"sb-price xmr \"Monero\" 🔒",			9000,	24}, */
 	/* {"",	"sb-price eth Ethereum 🍸",	9000,	23}, */
 	/* {"",	"sb-price btc Bitcoin 💰",				9000,	21}, */
-	{"",	"sb-torrent",	20,	7},
-	{"",	"sb-memory",	10,	14},
-	{"",	"sb-cpu",		10,	18},
-	{"",	"sb-moonphase",	18000,	17},
-	{"",	"sb-forecast",	18000,	5},
-	{"",	"sb-mailbox",	180,	12},
+/* 	{"",	"sb-moonphase",	18000,	17},
+	{"",	"sb-forecast",	18000,	5}, */
+	/*{"",	"sb-torrent",	20,	7},*/
 	{"",	"sb-nettraf",	1,	16},
+	/*{"",	"sb-cpu",		10,	18},*/
+	/*{"",	"sb-mailbox",	180,	12},*/
+	{"",	"sb-internet",	5,	4},
+	{"",	"sb-memory",	10,	14},
 	{"",	"sb-volume",	0,	10},
 	{"",	"sb-battery",	5,	3},
 	{"",	"sb-clock",	60,	1},
-	{"",	"sb-internet",	5,	4},
 	/*{"",	"sb-help-icon",	0,	15},*/
 };
 
